@@ -1,0 +1,7 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojAssemblyReference.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb
