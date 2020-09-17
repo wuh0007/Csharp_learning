@@ -28,7 +28,20 @@ namespace TypeConversion
             catch (Exception)
             {
 
-                throw;
+                Console.WriteLine("The number cannot be converted to a byte");
+            }
+
+
+            try
+            {
+                string str = "true";
+                bool p = Convert.ToBoolean(str);
+                Console.WriteLine(p);
+            }
+            catch (Exception)
+            {
+
+                Console.WriteLine("Error");
             }
 
         }
