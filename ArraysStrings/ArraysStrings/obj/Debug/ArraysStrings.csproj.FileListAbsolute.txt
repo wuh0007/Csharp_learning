@@ -1,0 +1,7 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysStrings\ArraysStrings\bin\Debug\ArraysStrings.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysStrings\ArraysStrings\bin\Debug\ArraysStrings.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysStrings\ArraysStrings\bin\Debug\ArraysStrings.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysStrings\ArraysStrings\obj\Debug\ArraysStrings.csprojAssemblyReference.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysStrings\ArraysStrings\obj\Debug\ArraysStrings.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysStrings\ArraysStrings\obj\Debug\ArraysStrings.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysStrings\ArraysStrings\obj\Debug\ArraysStrings.pdb
