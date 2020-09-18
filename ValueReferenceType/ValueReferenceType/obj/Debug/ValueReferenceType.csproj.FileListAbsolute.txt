@@ -1,0 +1,6 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ValueReferenceType\ValueReferenceType\bin\Debug\ValueReferenceType.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ValueReferenceType\ValueReferenceType\bin\Debug\ValueReferenceType.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ValueReferenceType\ValueReferenceType\bin\Debug\ValueReferenceType.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ValueReferenceType\ValueReferenceType\obj\Debug\ValueReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ValueReferenceType\ValueReferenceType\obj\Debug\ValueReferenceType.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ValueReferenceType\ValueReferenceType\obj\Debug\ValueReferenceType.pdb

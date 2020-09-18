@@ -1,0 +1,6 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysLists\ArraysLists\bin\Debug\ArraysLists.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysLists\ArraysLists\bin\Debug\ArraysLists.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysLists\ArraysLists\bin\Debug\ArraysLists.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysLists\ArraysLists\obj\Debug\ArraysLists.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysLists\ArraysLists\obj\Debug\ArraysLists.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ArraysLists\ArraysLists\obj\Debug\ArraysLists.pdb

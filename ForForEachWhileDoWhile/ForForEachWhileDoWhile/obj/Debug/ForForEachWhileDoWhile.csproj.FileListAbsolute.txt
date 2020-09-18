@@ -1,0 +1,6 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ForForEachWhileDoWhile\ForForEachWhileDoWhile\bin\Debug\ForForEachWhileDoWhile.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ForForEachWhileDoWhile\ForForEachWhileDoWhile\bin\Debug\ForForEachWhileDoWhile.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ForForEachWhileDoWhile\ForForEachWhileDoWhile\bin\Debug\ForForEachWhileDoWhile.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ForForEachWhileDoWhile\ForForEachWhileDoWhile\obj\Debug\ForForEachWhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ForForEachWhileDoWhile\ForForEachWhileDoWhile\obj\Debug\ForForEachWhileDoWhile.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ForForEachWhileDoWhile\ForForEachWhileDoWhile\obj\Debug\ForForEachWhileDoWhile.pdb

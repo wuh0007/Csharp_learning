@@ -1,0 +1,6 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\RandomClass\RandomClass\obj\Debug\RandomClass.pdb

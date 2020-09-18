@@ -1,0 +1,7 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\DateTimeTimeSpan\DateTimeTimeSpan\bin\Debug\DateTimeTimeSpan.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\DateTimeTimeSpan\DateTimeTimeSpan\bin\Debug\DateTimeTimeSpan.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\DateTimeTimeSpan\DateTimeTimeSpan\bin\Debug\DateTimeTimeSpan.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\DateTimeTimeSpan\DateTimeTimeSpan\obj\Debug\DateTimeTimeSpan.csprojAssemblyReference.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\DateTimeTimeSpan\DateTimeTimeSpan\obj\Debug\DateTimeTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\DateTimeTimeSpan\DateTimeTimeSpan\obj\Debug\DateTimeTimeSpan.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\DateTimeTimeSpan\DateTimeTimeSpan\obj\Debug\DateTimeTimeSpan.pdb
