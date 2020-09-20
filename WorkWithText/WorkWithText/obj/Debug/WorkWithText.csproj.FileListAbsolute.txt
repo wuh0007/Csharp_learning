@@ -1,0 +1,7 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\WorkWithText\WorkWithText\bin\Debug\WorkWithText.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\WorkWithText\WorkWithText\bin\Debug\WorkWithText.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\WorkWithText\WorkWithText\bin\Debug\WorkWithText.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\WorkWithText\WorkWithText\obj\Debug\WorkWithText.csprojAssemblyReference.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\WorkWithText\WorkWithText\obj\Debug\WorkWithText.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\WorkWithText\WorkWithText\obj\Debug\WorkWithText.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\WorkWithText\WorkWithText\obj\Debug\WorkWithText.pdb

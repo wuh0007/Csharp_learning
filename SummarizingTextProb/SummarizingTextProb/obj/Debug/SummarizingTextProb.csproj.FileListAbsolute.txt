@@ -1,0 +1,7 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\SummarizingTextProb\SummarizingTextProb\bin\Debug\SummarizingTextProb.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\SummarizingTextProb\SummarizingTextProb\bin\Debug\SummarizingTextProb.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\SummarizingTextProb\SummarizingTextProb\bin\Debug\SummarizingTextProb.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\SummarizingTextProb\SummarizingTextProb\obj\Debug\SummarizingTextProb.csprojAssemblyReference.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\SummarizingTextProb\SummarizingTextProb\obj\Debug\SummarizingTextProb.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\SummarizingTextProb\SummarizingTextProb\obj\Debug\SummarizingTextProb.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\SummarizingTextProb\SummarizingTextProb\obj\Debug\SummarizingTextProb.pdb
