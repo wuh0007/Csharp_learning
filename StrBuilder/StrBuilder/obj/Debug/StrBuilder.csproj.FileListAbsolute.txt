@@ -1,0 +1,6 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\StrBuilder\StrBuilder\bin\Debug\StrBuilder.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\StrBuilder\StrBuilder\bin\Debug\StrBuilder.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\StrBuilder\StrBuilder\bin\Debug\StrBuilder.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\StrBuilder\StrBuilder\obj\Debug\StrBuilder.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\StrBuilder\StrBuilder\obj\Debug\StrBuilder.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\StrBuilder\StrBuilder\obj\Debug\StrBuilder.pdb

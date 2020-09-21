@@ -1,0 +1,6 @@
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe.config
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.pdb
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.exe
+C:\Users\wuh007\Desktop\C_sharp_fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.pdb
